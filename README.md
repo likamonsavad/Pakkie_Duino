@@ -1,2 +1,2 @@
-# pakkie_duino
-Things Related to Arduino and TinyML
+# Introduction to Optimization
+I'm working on understanding about optimixation
