@@ -1,2 +1,2 @@
-# Introduction to TinyML
+# Introduction to Arduino
 I'm working on understanding about optimixation
